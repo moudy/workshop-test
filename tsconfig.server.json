@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "build",
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "target": "ES2018",
+    "esModuleInterop": true
+  },
+  "include": [
+    "./server/**/*.ts"
+  ]
+}
+
